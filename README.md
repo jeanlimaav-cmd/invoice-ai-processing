@@ -334,12 +334,10 @@ This project demonstrates:
 
 ## 👨‍💻 **About the Developer**
 
-**Yeragudipati Pratap** - Oracle ERP Expert transitioning to AI/ML Engineering
+**Jean!** - Oracle ERP Expert transitioning to AI/ML Engineering
 
-- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/pratapyeragudipati/)
-- 📧 **Email**: ypratap114u@gmail.com
-- 🌐 **GitHub**: [View more projects](https://github.com/ypratap11)
-- 💻 **Portfolio**: [Live Projects](https://github.com/ypratap11?tab=repositories)
+- 📧 **Email**: jeanlimaav@gmail.com
+- 🌐 **GitHub**: [View more projects](https://github.com/jeanlimaav-cmd)
 
 ### **Background**
 Leveraging years of ERP consulting experience to build AI solutions that solve real business problems. This project combines domain expertise in financial processes with cutting-edge AI technology.
