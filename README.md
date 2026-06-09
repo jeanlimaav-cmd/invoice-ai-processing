@@ -7,7 +7,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Document%20AI-yellow.svg)](https://cloud.google.com/document-ai)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://docker.com)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## 🎯 **Project Overview**
 
