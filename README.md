@@ -118,7 +118,7 @@ An end-to-end AI-powered invoice processing system that automates document proce
 
 ### **1. Clone Repository**
 ```bash
-git clone https://github.com/ypratap11/invoice-processing-ai.git
+git clone https://github.com/jeanlimaav-cmd/invoice-processing-ai.git
 cd invoice-processing-ai
 ```
 
